@@ -37,5 +37,5 @@
     <allow-intent href="sms:*" />
     <allow-intent href="mailto:*" />
     <allow-intent href="geo:*" />
-    <icon src="/www/img/icon.png" />
+    <icon src="icon.png" />
 </widget>
