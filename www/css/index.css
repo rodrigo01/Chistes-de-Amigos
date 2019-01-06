@@ -1,0 +1,116 @@
+/*Base Style*/
+.navbar{
+    background-color: #8eb59c;
+    margin-bottom: 0px;
+    border-bottom: 0px;
+}
+
+.navbar-default .navbar-toggle .icon-bar{
+    background-color: #FFF;
+}
+
+.header-cont{
+    text-align: center;
+    background-position: inherit;
+    background-size: 100%;
+    float: left;
+    width: 100%; 
+}
+
+.header-text{
+    font-weight: bold;
+    color: #f00;
+    font-size: 29px;
+}
+
+.chiste-row{
+    border-bottom: 1px solid #e0e0e0;
+    margin-bottom: 3px;
+    color: #7a8591;
+    padding: 10px;
+}
+
+.listado-chistes{
+    margin-top: 10px;
+}
+
+.chiste-row-title{
+    font-size: 18px;
+}
+
+.chiste-show-title{
+    font-size: 20px;
+    font-weight: bold;
+    padding: 7px;
+    background-color: #8db49c;
+    display: block;
+    color: #FFF;
+    border: 1px solid #8db49c;
+}
+
+.chiste-tools{
+    font-size: 14px;
+    font-weight: bold;
+    padding: 7px;
+    background-color: #8db49c;
+    display: block;
+    color: #FFF;
+    border: 1px solid #8db49c;
+}
+
+.chiste-show-content{
+    padding: 10px;
+}
+
+.serrigh{
+    float: right;
+}
+
+.btn-cst{
+    display: block;
+    background-color: #8eb59d;
+    color: #FFF;
+    text-align: center;
+    padding: 15px;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+/*
+Custom Colors
+*/
+
+.navbar{
+    background-color: #8fa6b5;
+}
+
+.chiste-row{
+    border-bottom: 1px solid #e0e0e0;
+    color: #7a8591;
+}
+
+.chiste-show-title{
+    background-color: #8fa6b5;
+    color: #FFF;
+    border: 1px solid #8fa6b5;
+}
+
+.btn-cst{
+    background-color: #8fa6b5;
+    color: #FFF;
+}
+
+.chiste-tools{
+    background-color: #8fa6b5;
+    color: #FFF;
+    border: 1px solid #8fa6b5;
+}
+
+.chiste-tools a{
+    color: #FFF;
+}
+
+.chiste-tools img{
+    height: 20px;
+}
